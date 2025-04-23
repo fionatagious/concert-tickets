@@ -1,2 +1,3 @@
 # concert-tickets
-User interface for concert ticket booking, where users can see concert details and purchase tickets.
+
+Concert Tickets Booking frontend, where users can view concert details and purchase tickets.
